@@ -27,3 +27,6 @@ Tab1:AddSlider({
 		print(Value)
 	end    
 })
+
+
+OrionLib:Init()
