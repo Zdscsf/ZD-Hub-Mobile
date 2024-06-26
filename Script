@@ -15,7 +15,7 @@ local Tab1 = Window:MakeTab({
 	PremiumOnly = false
 })
 
-Tab:AddSlider({
+Tab1:AddSlider({
 	Name = "Slider",
 	Min = 0,
 	Max = 20,
